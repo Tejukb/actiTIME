@@ -13,6 +13,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class AddClientAndVerifyInHomePage {
 
 	public static void main(String[] args) {
+		
+		//hi
 	
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
